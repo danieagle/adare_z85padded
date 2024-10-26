@@ -1,0 +1,19 @@
+name = "test_z85padded_01"
+description = "Adare_Z85padded examples 01"
+version = "0.0.1-dev"
+
+authors = ["Daniel Norte de Moraes"]
+maintainers = ["Daniel Norte de Moraes <danieagle@zohomail.com>"]
+maintainers-logins = ["danieagle"]
+
+executables = ["test_z85padded"]
+
+[build-switches]
+"*".Ada_Version = "Ada12"
+"*".Style_checks = ["-gnaty2abCefhiklnprstmM137"]
+
+[[depends-on]]
+adare_z85padded = "*"
+
+[[pins]]
+adare_z85padded = { path='..' }

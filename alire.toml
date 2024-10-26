@@ -1,0 +1,10 @@
+name = "adare_z85padded"
+description = "zeromq z85 encoding with padding"
+version = "0.1.0-dev"
+
+authors = ["Daniel Norte de Moraes"]
+maintainers = ["Daniel Norte de Moraes <danieagle@zohomail.com>"]
+maintainers-logins = ["danieagle"]
+licenses = "Unlicense"
+website = "https://github.com/danieagle/adare_z85padded"
+tags = ["zeromq-z85", "ascii85", "z85-padded"]

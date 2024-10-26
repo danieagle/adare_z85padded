@@ -1,0 +1,5 @@
+dependency:adare_z85padded=0.1.0-dev=bedbcdb1d5e5cfc04610212fe3b0353c075069a9ee1ad9f0337d8ab725ee6014
+external:LIBRARY_TYPE=default
+external:TEST_Z85PADDED_01_LIBRARY_TYPE=default
+profile:test_z85padded_01=DEVELOPMENT
+switches:test_z85padded_01=-Og,-fdata-sections,-ffunction-sections,-g,-gnat12,-gnatVa,-gnatW8,-gnatw.X,-gnatwa,-gnaty2abCefhiklnprstmM137
